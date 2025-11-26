@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img src="profile.jpg" class="profile-img">
+<img src="IMG_2811.HEIC" class="profile-img">
 
 # Thonn Homsnit
 Researcher / Developer / Music Lover
