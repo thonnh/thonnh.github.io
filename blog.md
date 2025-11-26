@@ -3,7 +3,7 @@ layout: default
 title: Research Notes & Blog
 ---
 
-# Research Notes
+# Research Notes & Blog
 
 <ul style="list-style: none; padding: 0;">
   {% for post in site.posts %}
