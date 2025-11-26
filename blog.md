@@ -1,22 +1,17 @@
 ---
 layout: default
-title: Blog
+title: Research Notes & Blog
 ---
 
-# 📝 My Research & Notes
+# Research Notes
 
-<ul>
+<ul style="list-style: none; padding: 0;">
   {% for post in site.posts %}
-    <li style="margin-bottom: 15px;">
-      <span style="color: #8b949e; font-size: 0.9em; margin-right: 10px;">
-        {{ post.date | date: "%Y-%m-%d" }}
-      </span>
-      <a href="{{ post.url }}" style="font-size: 1.2em; font-weight: bold;">
-        {{ post.title }}
-      </a>
-      <div style="color: #aaa; font-size: 0.9em;">
-        {{ post.excerpt }}
-      </div>
+    <li style="margin-bottom: 20px; border-bottom: 1px solid #30363d; padding-bottom: 15px;">
+      <div style="font-size: 0.9em; color: #8b949e; margin-bottom: 5px;">
+        {{ post.date | date: "%Y-%m-%d" }} </div>
+      <a href="{{ post.url }}" style="font-size: 1.3em; font-weight: bold; color: #58a6ff; text-decoration: none;">
+        {{ post.title }} </a>
     </li>
   {% endfor %}
 </ul>
