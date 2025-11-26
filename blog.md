@@ -1,21 +1,22 @@
 ---
 layout: default
-title: Research Notes
+title: Blog
 ---
 
-# My Research Notes
+# 📝 My Research & Notes
 
-Here is an example of writing math equations easily in Markdown:
-
-$$
-\mathcal{L}_{total} = \mathcal{L}_{data} + \lambda \mathcal{L}_{PDE}
-$$
-
-And here is some Python code:
-
-```python
-import torch
-import torch.nn as nn
-
-def train():
-    print("Training PINNs is fun!")
+<ul>
+  {% for post in site.posts %}
+    <li style="margin-bottom: 15px;">
+      <span style="color: #8b949e; font-size: 0.9em; margin-right: 10px;">
+        {{ post.date | date: "%Y-%m-%d" }}
+      </span>
+      <a href="{{ post.url }}" style="font-size: 1.2em; font-weight: bold;">
+        {{ post.title }}
+      </a>
+      <div style="color: #aaa; font-size: 0.9em;">
+        {{ post.excerpt }}
+      </div>
+    </li>
+  {% endfor %}
+</ul>
