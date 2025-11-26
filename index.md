@@ -14,4 +14,3 @@ Hi, I'm Thonn. I am a researcher interested in **Physics-Informed Neural Network
 ### Interests
 * ⚛️ Computational Mechanics
 * 🎸 Fender Stratocaster
-* 🎧 Japanese City Pop (Wednesday Campanella, Mondo Grosso)
