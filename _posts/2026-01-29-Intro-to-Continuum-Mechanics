@@ -1,0 +1,15 @@
+---
+layout: default
+title: Introduction to Continuum Mechanics
+date: 2026-01-29
+---
+
+# Introduction to PINNs
+
+Physics-Informed Neural Networks are powerful because...
+
+$$
+f(x) = \sin(x) + \mathcal{N}(x; \theta)
+$$
+
+Writing math here is fun!
