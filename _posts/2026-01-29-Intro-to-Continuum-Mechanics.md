@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction to Continuum Mechanics
-date: 2026-01-28
+date: 2026-01-29
 ---
 
 # Introduction to Continuum Mechanics
