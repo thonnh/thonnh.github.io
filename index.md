@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<img src="IMG.png" class="profile-img">
+<img src="IMG.png" class="profile-img" style="width: 200px; height: 200px; object-fit: cover; object-position: center 20%; border-radius: 50%;">
 
 # Thonn Homsnit
 
