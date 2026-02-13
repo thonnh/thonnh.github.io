@@ -28,4 +28,5 @@ Once the strain energy density is determined, it yields first Piola–Kirchoff s
 $$
 \mathbf S = \frac{\partial \psi}{\partial \mathbf F}-p\mathbf F^{-T}
 $$
+
 where $p$ is the presssure variable (considering incompressible material).
