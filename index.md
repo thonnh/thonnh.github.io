@@ -34,7 +34,7 @@ My research focuses on the intersection of **Computational Mechanics** and **Mac
 2. **Homsnit, T.**, et al., 2024. Crashworthiness design of an automotive S-rail using ANN-based optimization to enhance performance and safety. *Structural and Multidisciplinary Optimization*, 67(6), p.93.
 3. **Homsnit, T.**, et al., 2023. Optimizing stiffness and lightweight design of composite monocoque sandwich structure for electric heavy quadricycle. *Latin American Journal of Solids and Structures*, 20(3).
 4. Srirat, J., Theppakdee, J., Tiemkhum, J., Karimee, N., **Homsnit, T.** and Jongpradist, P., 2025. Integrated Structural and Impact Optimization for a Lightweight 6-Wheel Electric Truck Chassis. *International Journal of Automotive Technology*, pp.1-12.
-5. Khansiriwong, T., Ruangjirakit, K., Srirat, J., Kongwat, S., **Homsnit, T.** and Jongpradist, P., 2026. Optimization and reliability analysis of multi-purpose electric truck chassis under payload positioning variation. *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 240(4), pp.2090-2102.
+5. Khansiriwong, T., Ruangjirakit, K., Srirat, J., Kongwat, S., **Homsnit, T.** and Jongpradist, P., 2025. Optimization and reliability analysis of multi-purpose electric truck chassis under payload positioning variation. *Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering*, 240(4), pp.2090-2102.
 
 ---
 ### 🎓 Education & Experience
@@ -44,7 +44,7 @@ My research focuses on the intersection of **Computational Mechanics** and **Mac
 
 * **Graduate Coursework & Teaching Assistant in Engineering Mechanics** \| Virginia Tech, USA (2024 – 2025)
   * **Graduate Teaching Assistant:** Grading and providing technical feedback for ESM2204: Mechanics of Deformable Bodies (Fall 2024 & Spring 2025).
-  * **Selected Coursework:** ESM5014 Intro to Continuum Mechanics (A), ESM5024 Intro to Solid Mechanics (A), ESM5314 Intermediate Dynamics (B+).
+  * **Coursework:** ESM5014 Intro to Continuum Mechanics (A), ESM5024 Intro to Solid Mechanics (A), ESM5314 Intermediate Dynamics (B+).
 
 * **Performance Engineer** \| Gulf Energy Development PCL, Thailand (2023 – 2024)
 * **B.Eng. & M.Eng. in Mechanical Engineering** \| KMUTT, Thailand (2017 – 2023)
