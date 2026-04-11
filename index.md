@@ -8,7 +8,7 @@ title: Home
 # Thonn Homsnit
 **PhD Student in Mechanical Science and Engineering** | Saitama University, Japan
 
-**Saitama Prefecture President for TSAJ87 (Thai Students' Association in Japan under the Royal Patronage)**
+**Saitama Prefecture President \| TSAJ87 [(Thai Students Association in Japan under the Royal Patronage)](https://www.tsaj.jp/th)**
 
 ---
 
