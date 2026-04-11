@@ -14,7 +14,7 @@ $$
 \psi(\lambda_1, \lambda_2,\lambda_3)=\sum_{i=1}^n{\mu_i\frac{[\lambda_1^{\alpha_i}+\lambda_2^{\alpha_i}+\lambda_3^{\alpha_i}-3]}{\alpha_i}},
 $$
 
-where $\lambda_i$ refer to three principal stretches, and $\mu_i$ and $\alpha_i$ are the Ogden material parameters.
+where \(\lambda_i\) refer to three principal stretches, and $\mu_i$ and $\alpha_i$ are the Ogden material parameters.
 The pricipal stretches can be obtained from the spectral decomposition of the Cauchy–Green strain tensor where
 
 $$
