@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Current & Past Research
+title: Research
 ---
 
 # Current Research
