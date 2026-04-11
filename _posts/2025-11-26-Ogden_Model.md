@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Introduction to PINNs
+title: Ogden Model
 date: 2025-11-26
 ---
 
-# Introduction to PINNs
+# Ogden Hyperelastic Model
 - Accurate for isotropic, incompressible, rubber-like materials under **large defromation**.
 - More amicable to mathematical analysis than strain invariant-based model. 
 - Considering rubber-like material to be ideally hyperelastic, such that material do not exhibit hysteresis where the stress is only a function of the strain (usually right Cauchy–Green strain tensor) without its strain history.
