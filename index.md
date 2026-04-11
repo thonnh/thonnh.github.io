@@ -19,15 +19,15 @@ My research focuses on the intersection of **Computational Mechanics** and **Mac
 
 ---
 ### 🎓 Education & Experience
-* **PhD Student (MEXT Scholar)** | Saitama University, Japan (2025 – Present)
+* PhD Student (MEXT Scholar) | Saitama University, Japan (2025 – Present)
     * Focus: Physics-Informed Neural Networks (PINNs) and Computational Mechanics.
-* **Graduate Coursework & Teaching Assistant** | Virginia Tech, USA (2024 – 2025)
-    * **Graduate Teaching Assistant:** Grading and providing technical feedback for *ESM2204: Mechanics of Deformable Bodies* (Fall 2024 & Spring 2025).
-    * **Graduate Coursework Taken:** ESM5014 Intro to Continuum Mechanics (A), ESM5024 Intro to Solid Mechanics (A), ESM5314 Intermediate Dynamics (B+)
-* **Performance Engineer** | Gulf Energy Development PCL, Thailand (2023 – 2024)
+* Graduate Coursework & Teaching Assistant in Engineering Mechanics | Virginia Tech, USA (2024 – 2025)
+    * **Graduate Teaching Assistant: Grading and providing technical feedback for *ESM2204: Mechanics of Deformable Bodies* (Fall 2024 & Spring 2025).
+    * **Graduate Coursework Taken: ESM5014 Intro to Continuum Mechanics (A), ESM5024 Intro to Solid Mechanics (A), ESM5314 Intermediate Dynamics (B+)
+* Performance Engineer | Gulf Energy Development PCL, Thailand (2023 – 2024)
     * Planned and optimized operation regimes according to PPA and EGAT dispatch.
     * Conducted testing of small combined-cycle power plants to ensure compliance with LTSA and LTPA.
-* **B.Eng. & M.Eng. in Mechanical Engineering** | KMUTT, Thailand (2017 – 2023)
+* B.Eng. & M.Eng. in Mechanical Engineering | KMUTT, Thailand (2017 – 2023)
     * Participated in the Physics Honor Program and graduated with Second-Class Honors.
 ---
 
