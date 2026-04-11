@@ -6,8 +6,9 @@ title: Home
 <div style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; margin: 0 auto 30px auto; border-radius: 50%; background-image: url('IMG.png'); background-size: 180%; background-position: center 25%; display: block; border: 3px solid var(--border);"></div>
 
 # Thonn Homsnit
-* **PhD Student in Mechanical Science and Engineering** | Saitama University, Japan
-* **Saitama Prefecture President for TSAJ87 (Thai Students' Association in Japan under the Royal Patronage)**
+**PhD Student in Mechanical Science and Engineering** | Saitama University, Japan
+
+**Saitama Prefecture President for TSAJ87 (Thai Students' Association in Japan under the Royal Patronage)**
 
 ---
 
