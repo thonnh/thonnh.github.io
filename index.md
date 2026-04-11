@@ -7,7 +7,7 @@ title: Home
 
 # Thonn Homsnit
 **PhD Student in Mechanical Engineering** *Saitama University, Japan*
-
+**TSAJ87 (Thai Students' Association in Japan under the Royal Patronage): Saitama Prefecture President**
 ---
 
 ### 🧬 Research Interests
@@ -20,22 +20,16 @@ My research focuses on the intersection of **Computational Mechanics** and **Mac
 
 ### 📰 Latest News
 * **[Mar 2026]** Served as a Global Volunteer for the **Tokyo Marathon 2026**.
-* **[Jan 2026]** My latest paper on Ogden model is currently under review at Elsevier.
 * **[Nov 2025]** Presented our work at **JSMAMS 2025**, Kyoto.
 * **[Sep 2025]** Started my PhD at Saitama University as a **MEXT Scholar**.
 
 ---
 
-### 📄 Selected Publications
-1. **Homsnit, T.**, et al. "Predicting Large Deformation in Rubber-like Materials using PINNs." *(Under Review)*
-2. [ชื่อ Paper เก่าๆ ถ้ามี หรือใส่เป็น "Coming Soon" ไว้ก่อนได้ครับ]
-
----
-
-### 🏸 Leadership & Life
-Beyond the lab, I am passionate about building communities and staying active.
-* **SU.TSA President:** Leading the Thai Student Association at Saitama University.
-* **Running:** Aiming for a sub-60 min 10k! (Personal Best: 1:19 pre-injury).
-* **Music:** I spend my weekends playing guitar and singing to de-stress.
+### 📄 Selected Publication & Preprints
+1. **Homsnit, T.**, Kageyama, K. and Kojima, T., 2025. Investigation of PINN Stability and Robustness for the Euler-Bernoulli Beam Problem. arXiv preprint arXiv:2511.19916.
+2. **Homsnit, T.**, Jongpradist, P., Kongwat, S., Jongpradist, P. and Thongchom, C., 2024. Crashworthiness design of an automotive S-rail using ANN-based optimization to enhance performance and safety. Structural and Multidisciplinary Optimization, 67(6), p.93.
+3. **Homsnit, T.**, Kongwat, S., Ruangjirakit, K., Noykanna, P., Thuengsuk, T. and Jongpradist, P., 2023. Optimizing stiffness and lightweight design of composite monocoque sandwich structure for electric heavy quadricycle. Latin American Journal of Solids and Structures, 20(3), p.e485.
+4. Srirat, J., Theppakdee, J., Tiemkhum, J., Karimee, N., **Homsnit, T.** and Jongpradist, P., 2025. Integrated Structural and Impact Optimization for a Lightweight 6-Wheel Electric Truck Chassis. International Journal of Automotive Technology, pp.1-12.
+5. Khansiriwong, T., Ruangjirakit, K., Srirat, J., Kongwat, S., **Homsnit, T.** and Jongpradist, P., 2026. Optimization and reliability analysis of multi-purpose electric truck chassis under payload positioning variation. Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering, 240(4), pp.2090-2102.
 
 ---
