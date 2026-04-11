@@ -6,8 +6,8 @@ title: Home
 <div style="width: 200px; height: 200px; min-width: 200px; min-height: 200px; margin: 0 auto 30px auto; border-radius: 50%; background-image: url('IMG.png'); background-size: 180%; background-position: center 25%; display: block; border: 3px solid var(--border);"></div>
 
 # Thonn Homsnit
-**PhD Student in Mechanical Engineering** *Saitama University, Japan*
-**TSAJ87 (Thai Students' Association in Japan under the Royal Patronage): Saitama Prefecture President**
+**PhD Student in Mechanical Engineering** *Saitama University, Japan* **TSAJ87 (Thai Students' Association in Japan under the Royal Patronage): Saitama Prefecture President**
+
 ---
 
 ### 🧬 Research Interests
@@ -16,6 +16,22 @@ My research focuses on the intersection of **Computational Mechanics** and **Mac
 * **Continuum Mechanics:** Large deformation and hyperelasticity.
 * **Graph Neural Networks (GNNs):** For FEM-based simulations.
 
+---
+### 🎓 Education & Experience
+
+* **PhD Student (MEXT Scholar)** | Saitama University, Japan (2025 – Present)
+    * Focus: Physics-Informed Neural Networks (PINNs) and Computational Mechanics.
+* **Graduate Coursework & Teaching Assistant** | Virginia Tech, USA (2024 – 2025)
+    * **Graduate Teaching Assistant:** Grading and providing technical feedback for *ESM2204: Mechanics of Deformable Bodies* (Fall 2024 & Spring 2025).
+    * **Selected Graduate Coursework:**
+        * ESM5014: Intro to Continuum Mechanics (Grade: A)
+        * ESM5024: Intro to Solid Mechanics (Grade: A)
+        * ESM5314: Intermediate Dynamics (Grade: B+)
+* **Performance Engineer** | Gulf Energy Development PCL, Thailand (2023 – 2024)
+    * Planned and optimized operation regimes according to PPA and EGAT dispatch.
+    * Conducted testing of small combined-cycle power plants to ensure compliance with LTSA and LTPA.
+* **B.Eng. & M.Eng. in Mechanical Engineering** | KMUTT, Thailand (2017 – 2023)
+    * Participated in the Physics Honor Program and graduated with Second-Class Honors.
 ---
 
 ### 📰 Latest News
@@ -26,9 +42,9 @@ My research focuses on the intersection of **Computational Mechanics** and **Mac
 ---
 
 ### 📄 Selected Publication & Preprints
-1. **Homsnit, T.**, Kageyama, K. and Kojima, T., 2025. Investigation of PINN Stability and Robustness for the Euler-Bernoulli Beam Problem. arXiv preprint arXiv:2511.19916.
-2. **Homsnit, T.**, Jongpradist, P., Kongwat, S., Jongpradist, P. and Thongchom, C., 2024. Crashworthiness design of an automotive S-rail using ANN-based optimization to enhance performance and safety. Structural and Multidisciplinary Optimization, 67(6), p.93.
-3. **Homsnit, T.**, Kongwat, S., Ruangjirakit, K., Noykanna, P., Thuengsuk, T. and Jongpradist, P., 2023. Optimizing stiffness and lightweight design of composite monocoque sandwich structure for electric heavy quadricycle. Latin American Journal of Solids and Structures, 20(3), p.e485.
+1. **Homsnit, T.**, Kageyama, K. and Kojima, T., 2025. Investigation of PINN Stability and Robustness for the Euler-Bernoulli Beam Problem. *arXiv preprint arXiv:2511.19916*.
+2. **Homsnit, T.**, et al., 2024. Crashworthiness design of an automotive S-rail using ANN-based optimization to enhance performance and safety. *Structural and Multidisciplinary Optimization*, 67(6), p.93.
+3. **Homsnit, T.**, et al., 2023. Optimizing stiffness and lightweight design of composite monocoque sandwich structure for electric heavy quadricycle. *Latin American Journal of Solids and Structures*, 20(3).
 4. Srirat, J., Theppakdee, J., Tiemkhum, J., Karimee, N., **Homsnit, T.** and Jongpradist, P., 2025. Integrated Structural and Impact Optimization for a Lightweight 6-Wheel Electric Truck Chassis. International Journal of Automotive Technology, pp.1-12.
 5. Khansiriwong, T., Ruangjirakit, K., Srirat, J., Kongwat, S., **Homsnit, T.** and Jongpradist, P., 2026. Optimization and reliability analysis of multi-purpose electric truck chassis under payload positioning variation. Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering, 240(4), pp.2090-2102.
 
