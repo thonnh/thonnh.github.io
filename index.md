@@ -42,7 +42,7 @@ My research focuses on the intersection of **Computational Mechanics** and **Mac
 * **PhD Student in Mechanical Science Program (Japanese Government MEXT scholar)** \| Saitama University, Japan (2025 – Present)
   * Focus: Physics-Informed Neural Networks (PINNs) and Computational Mechanics.
 
-* **Graduate Coursework & Teaching Assistant in Engineering Mechanics** \| Virginia Tech, USA (2024 – 2025)
+* **Graduate Student & Teaching Assistant in Engineering Mechanics** \| Virginia Tech, USA (2024 – 2025)
   * **Graduate Teaching Assistant:** Grading and providing technical feedback for ESM2204: Mechanics of Deformable Bodies (Fall 2024 & Spring 2025).
   * **Coursework:** ESM5014 Intro to Continuum Mechanics (A), ESM5024 Intro to Solid Mechanics (A), ESM5314 Intermediate Dynamics (B+).
 
