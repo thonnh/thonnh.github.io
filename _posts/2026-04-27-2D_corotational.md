@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2D Corotational Frame Element Formulation
-date: 2025-11-26
+date: 2026-4-27
 ---
 
 # 2D Corotational Frame Element Formulation
