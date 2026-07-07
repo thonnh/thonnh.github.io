@@ -20,6 +20,8 @@ My research focuses on the intersection of **Computational Mechanics** and **Mac
 
 ---
 ### 📰 Latest News
+* **[July 2026]** Joined **Marai Catalyst Hackathon** hosted by TSAJ at Heisei Plaza, Tokyo.
+* **[June 2026]** Publish a [demonstration video](https://thonnh.github.io/2D_corotational.html) of Newton–Raphson method on Corotational Formulation.
 * **[Mar 2026]** Served as a Global Volunteer for the **Tokyo Marathon 2026**.
 * **[Jan 2026]** New preprint on **PINN Stability and Robustness** for beam problems is now available on [arXiv](https://arxiv.org/abs/2511.19916).
 * **[Nov 2025]** Presented PINNs research at **JSMAMS 2025** in Kyoto, Japan.
