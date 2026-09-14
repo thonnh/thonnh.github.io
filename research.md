@@ -2,6 +2,7 @@
 layout: default
 title: Research
 nav_section: research
+wide_content: true
 ---
 
 # Research

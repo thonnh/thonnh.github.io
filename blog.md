@@ -2,6 +2,7 @@
 layout: default
 title: Research Notes & Blog
 nav_section: blog
+wide_content: true
 ---
 
 # Research Notes & Blog

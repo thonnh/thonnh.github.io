@@ -630,6 +630,10 @@ footer p {
   overflow: hidden;
 }
 
+.wide-content .page-content {
+  width: 100%;
+}
+
 .page-content > :first-child {
   margin-top: 0;
 }
