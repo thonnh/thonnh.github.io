@@ -1,81 +1,69 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta name="description" content="Thonn Homsnit (ธรณ์ หอมสนิท) - PhD Student in Mechanical Engineering at Saitama University. Researching PINNs, Continuum Mechanics, and Computational Mechanics.">
-    <meta name="keywords" content="Thonn Homsnit, ธรณ์ หอมสนิท, PINNs, Mechanical Engineering, Saitama University, MEXT Scholar">
-    <meta name="author" content="Thonn Homsnit">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }} | Thonn Homsnit</title>
-    
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-    
-    <script>
-     MathJax = {
-        tex: {
-          inlineMath: [['$', '$'], ['\\(', '\\)']],
-          displayMath: [['$$', '$$'], ['\\[', '\\]']],
-          processEscapes: true
-        },
-        svg: {
-          fontCache: 'global'
-        }
-      };
-    </script>
-    <script type="text/javascript" id="MathJax-script" async
-      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
-    </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="{{ page.description | default: 'Thonn Homsnit — PhD student at Saitama University researching computational mechanics and scientific machine learning.' }}">
+  <meta name="keywords" content="Thonn Homsnit, ธรณ์ หอมสนิท, PINNs, Mechanical Engineering, Saitama University, MEXT Scholar">
+  <meta name="author" content="Thonn Homsnit">
+  <title>{{ page.title }} | Thonn Homsnit</title>
+  <link rel="stylesheet" href="/style.css">
 
-    <style>
-        /* Dark Theme CSS */
-        :root { --bg-color: #0d1117; --text-main: #c9d1d9; --text-muted: #8b949e; --accent: #58a6ff; --card-bg: #161b22; --border: #30363d; }
-        
-        body { font-family: 'Inter', sans-serif; background-color: var(--bg-color); color: var(--text-main); line-height: 1.6; margin: 0; padding: 0; }
-        
-        .container { max-width: 720px; margin: 0 auto; padding: 40px 20px; }
-        
-        /* Navbar แก้ไขแล้ว: ใช้ Link แบบระบุไฟล์ .html ชัดเจน */
-        nav { text-align: center; padding: 20px 0; border-bottom: 1px solid var(--border); margin-bottom: 40px; }
-        nav a { color: var(--text-muted); text-decoration: none; margin: 0 15px; font-weight: 600; font-size: 1.1rem; transition: color 0.2s; }
-        nav a:hover { color: var(--accent); }
-        
-        /* Typography */
-        h1, h2, h3 { color: #fff; margin-top: 30px; }
-        h1 { font-size: 2.5rem; letter-spacing: -1px; line-height: 1.2; }
-        h2 { border-bottom: 1px solid var(--border); padding-bottom: 10px; margin-top: 50px; }
-        
-        a { color: var(--accent); text-decoration: none; }
-        a:hover { text-decoration: underline; }
-        
-        .profile-img { width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 2px solid var(--border); display: block; margin: 0 auto 20px; }
-        
-        /* Code Block Style */
-        pre { background: #161b22; padding: 15px; border-radius: 6px; overflow-x: auto; border: 1px solid var(--border); }
-        code { font-family: 'Courier New', monospace; font-size: 0.9em; color: #ff7b72; }
-        
-        /* Blockquote */
-        blockquote { border-left: 4px solid var(--border); margin: 0; padding-left: 15px; color: var(--text-muted); }
-        
-        footer { text-align: center; margin-top: 80px; padding-top: 20px; border-top: 1px solid var(--border); font-size: 0.8rem; color: var(--text-muted); }
-    </style>
+  <script>
+    MathJax = {
+      tex: {
+        inlineMath: [['$', '$'], ['\\(', '\\)']],
+        displayMath: [['$$', '$$'], ['\\[', '\\]']],
+        processEscapes: true
+      },
+      svg: { fontCache: 'global' }
+    };
+  </script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 </head>
-<body>
+<body class="inner-page">
+  <header class="site-header">
+    <nav class="nav-shell" aria-label="Primary navigation">
+      <a class="brand" href="/index.html" aria-label="Thonn Homsnit — Home">
+        <span class="brand-mark">TH</span>
+        <span class="brand-name">Thonn Homsnit</span>
+      </a>
 
-<div class="container">
-    <nav>
-        <a href="https://thonnh.github.io/">Home</a>
-        <a href="https://thonnh.github.io/blog.html">Blog/News</a>
-        <a href="https://thonnh.github.io/research.html">Research</a>
-        <a href="https://scholar.google.com/citations?user=dBBnHBwAAAAJ&hl=en&oi=ao" target="_blank">Google Scholar</a>
+      <div class="nav-links">
+        <a class="nav-link" href="/index.html">
+          <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M3 10.8 12 3l9 7.8v9.7a.5.5 0 0 1-.5.5h-5.7v-6.2H9.2V21H3.5a.5.5 0 0 1-.5-.5Z"/></svg>
+          <span>Home</span>
+        </a>
+        <a class="nav-link{% if page.url == '/research.html' %} active{% endif %}" href="/research.html">
+          <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M9 3h6M10 3v5.2L5.4 17a2.7 2.7 0 0 0 2.4 4h8.4a2.7 2.7 0 0 0 2.4-4L14 8.2V3M7.6 15h8.8"/></svg>
+          <span>Research</span>
+        </a>
+        <a class="nav-link{% unless page.url == '/research.html' %} active{% endunless %}" href="/blog.html">
+          <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M5 3h11l3 3v15H5ZM8.5 9h7M8.5 13h7M8.5 17h4.5"/></svg>
+          <span>Blog / News</span>
+        </a>
+        <a class="nav-link" href="https://scholar.google.com/citations?user=dBBnHBwAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener noreferrer">
+          <svg aria-hidden="true" viewBox="0 0 24 24"><path d="m3 9 9-5 9 5-9 5Zm3 2.2V17c3.7 2.7 8.3 2.7 12 0v-5.8M21 9v7"/></svg>
+          <span>Google Scholar</span>
+        </a>
+      </div>
     </nav>
-    
-    {{ content }}
+  </header>
 
-    <footer>
-        &copy; 2025 Thonn Homsnit.
-    </footer>
-</div>
-<div style="display:none;">ธรณ์ หอมสนิท (Thonn Homsnit) นักวิจัยปริญญาเอก มหาวิทยาลัยไซตามะ (Saitama University) ด้าน Computational Mechanics และ PINNs</div>
+  <main class="page-shell">
+    <article class="page-content">
+      {{ content }}
+    </article>
+  </main>
+
+  <footer>
+    <div>
+      <p class="footer-name">Thonn Homsnit</p>
+      <p>Computational Mechanics · Scientific Machine Learning</p>
+    </div>
+    <p>© 2026 · Saitama, Japan</p>
+  </footer>
+
+  <div class="visually-hidden">ธรณ์ หอมสนิท (Thonn Homsnit) นักวิจัยปริญญาเอก มหาวิทยาลัยไซตามะ ด้าน Computational Mechanics และ PINNs</div>
 </body>
 </html>
