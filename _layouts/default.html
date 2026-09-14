@@ -7,7 +7,7 @@
   <meta name="keywords" content="Thonn Homsnit, ธรณ์ หอมสนิท, PINNs, Mechanical Engineering, Saitama University, MEXT Scholar">
   <meta name="author" content="Thonn Homsnit">
   <title>{{ page.title }} | Thonn Homsnit</title>
-  <link rel="stylesheet" href="/style.css">
+  <link rel="stylesheet" href="/style.css?v=20260914-3">
 
   <script>
     MathJax = {
@@ -34,11 +34,11 @@
           <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M3 10.8 12 3l9 7.8v9.7a.5.5 0 0 1-.5.5h-5.7v-6.2H9.2V21H3.5a.5.5 0 0 1-.5-.5Z"/></svg>
           <span>Home</span>
         </a>
-        <a class="nav-link{% if page.url == '/research.html' %} active{% endif %}" href="/research.html">
+        <a class="nav-link{% if page.nav_section == 'research' %} active{% endif %}" href="/research.html">
           <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M9 3h6M10 3v5.2L5.4 17a2.7 2.7 0 0 0 2.4 4h8.4a2.7 2.7 0 0 0 2.4-4L14 8.2V3M7.6 15h8.8"/></svg>
           <span>Research</span>
         </a>
-        <a class="nav-link{% unless page.url == '/research.html' %} active{% endunless %}" href="/blog.html">
+        <a class="nav-link{% if page.nav_section == 'blog' %} active{% endif %}" href="/blog.html">
           <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M5 3h11l3 3v15H5ZM8.5 9h7M8.5 13h7M8.5 17h4.5"/></svg>
           <span>Blog / News</span>
         </a>
@@ -63,7 +63,5 @@
     </div>
     <p>© 2026 · Saitama, Japan</p>
   </footer>
-
-  <div class="visually-hidden">ธรณ์ หอมสนิท (Thonn Homsnit) นักวิจัยปริญญาเอก มหาวิทยาลัยไซตามะ ด้าน Computational Mechanics และ PINNs</div>
 </body>
 </html>

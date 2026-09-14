@@ -2,6 +2,7 @@
 layout: default
 title: Slovak–Japanese One-Day Session for Young Scholars in Applied Mathematics 2026
 date: 2026-09-10
+nav_section: blog
 ---
 
 # Slovak–Japanese One-Day Session for Young Scholars in Applied Mathematics 2026

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Research Notes & Blog
+nav_section: blog
 ---
 
 # Research Notes & Blog

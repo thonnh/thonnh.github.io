@@ -607,30 +607,33 @@ footer p {
   border: 1px solid var(--line);
   border-radius: 28px;
   box-shadow: var(--shadow);
+  overflow: hidden;
 }
 
 .page-content > :first-child {
   margin-top: 0;
 }
 
-.page-content h1 {
+.inner-page .page-content h1 {
   margin: 0 0 36px;
   font-family: var(--serif);
-  font-size: clamp(44px, 7vw, 72px);
+  font-size: clamp(38px, 5vw, 54px);
   font-weight: 400;
-  letter-spacing: -0.06em;
-  line-height: 1;
+  letter-spacing: -0.045em;
+  line-height: 1.08;
+  overflow-wrap: anywhere;
 }
 
-.page-content h2 {
+.inner-page .page-content h2 {
   margin: 58px 0 18px;
   padding-top: 22px;
   border-top: 1px solid var(--line);
   font-family: var(--serif);
-  font-size: clamp(30px, 4vw, 42px);
+  font-size: clamp(27px, 3.5vw, 36px);
   font-weight: 400;
-  letter-spacing: -0.04em;
-  line-height: 1.15;
+  letter-spacing: -0.03em;
+  line-height: 1.2;
+  overflow-wrap: anywhere;
 }
 
 .page-content h3 {
@@ -747,18 +750,6 @@ footer p {
 
 .post-arrow {
   color: var(--accent);
-}
-
-.visually-hidden {
-  position: absolute !important;
-  width: 1px !important;
-  height: 1px !important;
-  padding: 0 !important;
-  margin: -1px !important;
-  overflow: hidden !important;
-  clip: rect(0, 0, 0, 0) !important;
-  white-space: nowrap !important;
-  border: 0 !important;
 }
 
 :focus-visible {

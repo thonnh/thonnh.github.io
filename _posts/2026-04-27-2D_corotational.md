@@ -2,6 +2,7 @@
 layout: default
 title: 2D Corotational Frame Element Formulation
 date: 2026-4-27
+nav_section: blog
 ---
 
 # 2D Corotational Frame Element Formulation
@@ -78,5 +79,4 @@ This summary provides the mathematical foundation for the implementation shown i
     allowfullscreen>
   </iframe>
 </div>
-
 
